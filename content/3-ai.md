@@ -1,7 +1,6 @@
 ---
 title: AI & Research
 nav: AI & Research
-topics: Content; Markdown; Includes
 ---
 ##
 
