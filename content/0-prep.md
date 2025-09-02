@@ -41,7 +41,7 @@ Ready to research topic:
 - key words
 
 _Elements that come with repeated searching and diving into a topic:_
-- familiarity with foundational concepts and research ("National surveys show 25% of college students have tried tobacoo vapes by the time they graduate high school")
+- familiarity with foundational concepts and research ("National surveys show 25% of college students have tried tobacco vapes by the time they graduate high school")
 - seminal findings/key touch points (At the end of a succesful research process, you should have hopefully identified key, foundational papers. These papers can typically be identified by having a high number of citations). 
 
 
