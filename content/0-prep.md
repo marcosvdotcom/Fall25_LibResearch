@@ -19,6 +19,8 @@ Here's some ideas to help you brainstorm:
 - A problem or challenge you or someone you know is facing
 - A concept or practice you've just learned about it from a class or fellow student
 
+## Good to Great Research Questions 
+
 A good research question has the following qualities:
 
 - Clearly defined in terms of scope, which might include types of people impacted or locations of interest
@@ -42,6 +44,7 @@ Ready to research topic:
 - clearly defined dates of interest/relevance (limiting searches to results from the last 10 years)
 - a sense of what your own hypothesis is ("teens in rural states have higher rates of vaping due to less support for addiction counseling and services")
 - key words
+
 _Elements that come with repeated searching and diving into a topic:_
 - familiarity with foundational concepts and research ("National surveys show 25% of college students have tried tobacoo vapes by the time they graduate high school")
 - seminal findings/key touch points (At the end of a succesful research process, you should have hopefully identified key, foundational papers. These papers can typically be identified by having a high number of citations). 
