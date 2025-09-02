@@ -2,9 +2,6 @@
 title: Session Goals
 nav: Goals
 ---
-
-# Goals: 
-
 - To help you develop stategies and skills to turn your research ideas into a formal research question(s)
 - To understand the key parameters of a ready-to-research question versus one that needs a bit more development 
 - To understand at a base level how AI should be used in the research process
