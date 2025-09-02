@@ -1,6 +1,6 @@
 ---
 title: Concept to Question
-nav: Concept & Question Worksheet
+nav: Concept to Question Worksheet
 ---
 
 
