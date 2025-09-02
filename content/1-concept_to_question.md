@@ -10,7 +10,7 @@ _Are you doing this workshop for a class? Make sure to fill out the (Microsoft F
 
 - What ideas do you have for your research topic? 
 
-- _Write down 2 or 3 different research topic ideas_
+	- _Write down 2 or 3 different research topic ideas_
 
 - Use Primo Research Assistant to explore your topic (3 queries)
 
