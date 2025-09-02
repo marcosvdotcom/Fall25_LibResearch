@@ -10,7 +10,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: workshop-template-b
+title: Fall 2025 Library Reserach in Education 
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -27,13 +27,13 @@ featured-image: "/images/uidaho-workshop.jpg"
 search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+author: marco sv
 # your github username for link [optional]
-github_username: evanwill
+github_username: marcosvdotcom 
 # year or date published
 pub_year: 2021
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+source-code: https://github.com/marcosvdotcom/Fall25_LibResearch
 
 ##########
 # URL VARIABLES [optional!!]
