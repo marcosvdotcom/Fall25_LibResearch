@@ -28,4 +28,12 @@ Now ask it about something you know nothing about, how would you go about verify
 
 _What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points?_ 
 
+## Getting Good Results with AI
+
+Strategies for prompts
+
+## AI Agents to try 
+
+Scholarly focused 
+
 
