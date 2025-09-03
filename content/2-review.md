@@ -4,7 +4,7 @@ nav: Reviewing Results
 ---
 # Tips on reviewing articles:
 
-The fastest way to evaluate reserach is to read the article's Abstract. If it’s on topic, move on to the Introduction, Findings, and Conclusion. If after that it still seems like a good article, then dive into fully reading it. 
+The fastest way to evaluate research is to read the article's Abstract. If it is on topic, move on to the Introduction, Findings, and Conclusion. If after that it still seems like a good article, then dive into fully reading it. 
 
 For really good papers, check out their works cited AND search them in google scholar to see the papers that have been published since that cite the article of note. 
 
