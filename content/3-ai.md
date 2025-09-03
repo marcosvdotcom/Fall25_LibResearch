@@ -2,8 +2,6 @@
 title: AI & Research
 nav: AI & Research
 ---
-##
-
 ## AI and Research
 
 How should AI should be used in the research process?
