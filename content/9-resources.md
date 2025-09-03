@@ -1,27 +1,7 @@
 ---
-title: Addititional Links & Resources
+title: Reference & Resources
 nav: Resources
 ---
-
-Additional resources to help you with library research
-
-## Links and Resources 
-Discipliary Databases
-
-
-PRIMO Research Assistant
-
-LibGuides
-
-## Videos
-
-Connecting your Google Scholar account with your UIdaho credentials 
-
-## 1:1 Support
-
-24/7 Chat
-
-Schedule a time with Marco 
 
 To learn about using `workshop-template-b`, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/evanwill/workshop-template-b/blob/master/README.md)).
 

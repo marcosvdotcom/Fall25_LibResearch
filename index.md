@@ -3,16 +3,19 @@ title: Home
 layout: page
 ---
 
-# Library Research Skills for 2025
+# Bootstrap Workshop Template!
 
-{% include figure.html img="https://www.lib.uidaho.edu/media/carousel/LibraryClockTower_car.jpg" alt="Sunlight peeking through the UIdaho Library foliage" caption="University of Idaho Library" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-A quick, one-stop shop to build, or refresh, your skills in doing academic research using library licensed databases and resources.
+A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
-Session goals:
-- To help you develop stategies and skills to turn your research ideas into a formal research question(s)
-- To understand the key parameters of a ready-to-research question versus one that needs a bit more development 
-- To understand at a base level how AI should be used in the research process
+*Add your workshop abstract here!*
+
+Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
+Host it for free on GitHub with gh-pages, and share!
+Fun!
+
+*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
 
 {% include toc.html %}
 
