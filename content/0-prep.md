@@ -22,9 +22,9 @@ A _good_ research question has the following qualities:
 - A defined timefrmae of interest and/or relevance
 - Identifiable key words that you can use to search off of
 
-Sounds straight forward enough, but what makes a _great_ research question?
+Question: Sounds straight forward enough, but what makes a _great_ research question?
 
-A: It's on a topic you feel passionate about or connected to! Having a research topic that you have some passion for will help sustain you through the sometimes tiring process of searching for articles and evaluating results. The more you care, the more enjoyable the research process will be and the better the overall outcome! Don't be afraid to switch topics as you explore your initial ideas and get a sense of what really excites or interests you about your initial subject. s
+Answer: It's on a topic you feel passionate about or connected to! Having a research topic that you have some passion for will help sustain you through the sometimes tiring process of searching for articles and evaluating results. The more you care, the more enjoyable the research process will be and the better the overall outcome! Don't be afraid to switch topics as you explore your initial ideas and get a sense of what really excites or interests you about your initial subject. s
 
 ## Stages of research question formation 
 

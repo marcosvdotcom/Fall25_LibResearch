@@ -4,6 +4,9 @@ nav: Concept to Question Worksheet
 ---
 ## _Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers!_
 
+{% include alert.html text=" _Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers!_"[Alert](https://getbootstrap.com/docs/4.1/components/alerts/)" align="center" color="success" %}
+
+
 ## Concept to Question Digital Worksheet
 
 Work through the following questions, using the linked form to share your answers.
