@@ -25,7 +25,7 @@ Work through the following questions, using the linked form to share your answer
 	- Articles in the right time frame (be mindful of dates and timeframes, if you’re using sources that are older than 10+ years, there likely needs to be some kind of reason for that)
 	- Articles that address your concept or topic, either entirely or in the case of inter-disciplinary research, in part 
 
-Pro-Tip: _You can also search google scholar for AI served articles - this is handy to see what a cited article might actually be.
+Pro-Tip: _You can also search google scholar for AI served articles - this is handy to see what a cited article might actually be._
 
 Based on what you find, you will likely be updating and refining your parameters, especially with respect to dates and keywords. This is normal as you find out more information!
 
