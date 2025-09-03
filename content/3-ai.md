@@ -25,6 +25,8 @@ _AI Challenge:_
 
 _What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points? Share with me in the form!_ 
 
+{% include question.html header="Example Question" text="What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points?" solution="There's no one right answer, but your strategy should use AI for what it's good at (general searching and concept formation) and avoiding relying on it for areas where it struggles (factual data replication, citations, etc.)." %}
+
 ## Getting Good Results with AI
 
 Strategies for prompts
