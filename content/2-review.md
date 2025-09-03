@@ -8,3 +8,6 @@ For really good papers, check out their works cited AND search them in google sc
 
 Similarly, for papers that are very on topic, note their keywords. You may want to update your search list if you notice some possible improvements. You can also search a strong match paper in Google Scholar and see it's Related By and Cited By articles, which show articles that match keywords or subjects, or that formally cite the given article.  
 
+## How can AI help?
+
+One strength of current generative AI is the ability to explain or summarize new content. Abstract full of a bunch of words you don't know? Ask ChatGPT to summarize it for you!
