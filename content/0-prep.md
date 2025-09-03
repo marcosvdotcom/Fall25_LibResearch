@@ -14,7 +14,7 @@ Here's some ideas to help you brainstorm possible topics:
 
 ## Good to Great Research Questions 
 
-What seperates a Great research question from a good one? 
+What seperates a great research question from a good one? 
 
 A _good_ research question has the following qualities:
 
