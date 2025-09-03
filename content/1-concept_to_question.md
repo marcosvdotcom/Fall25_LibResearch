@@ -2,8 +2,6 @@
 title: Concept to Question
 nav: Concept to Question Worksheet
 ---
-## _Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers!_
-
 {% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers! [Alert](https://getbootstrap.com/docs/4.1/components/alerts/)" align="center" color="success" %}
 
 ## Concept to Question Digital Worksheet
