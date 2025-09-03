@@ -13,7 +13,7 @@ Session goals:
 - To help you develop stategies and skills to turn your research ideas into formal research question(s)
 - To understand the key parameters of a ready-to-research question versus one that needs a bit more development 
 - To understand at a base level how AI should be used in the research process
-- To make sure you know where to go for next steps, either for research or more support 
+- To make sure you know where to go for next steps, either to start your research or for more support 
 
 {% include toc.html %}
 
