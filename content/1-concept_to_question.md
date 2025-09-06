@@ -2,7 +2,7 @@
 title: Concept to Question
 nav: Concept to Question Worksheet
 ---
-{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers! [Click Here](https://forms.google.com/123)" align="center" color="success" %}
+{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdCQOkO_333XKPdP6d9TG-jmZw8VbW-uHrTBAATWQI6Q9nk9Q/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}{:target="_blank"}
 
 ## Concept to Question Digital Worksheet
 
@@ -10,7 +10,7 @@ Work through the following questions, using the linked form to share your answer
 
 1. What ideas do you have for your research topic? 
 	- _Write down 2 or 3 different research topic ideas in the form_
-1. Use Primo Research Assistant to explore your topic (3 to 5 queries)
+1. Use [PRIMO Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID) to explore your topic (3 to 5 queries)
 1. Use your AI agent of choice to explore your topic, if you're not sure which to use just use ChatGPT (aim for 3-5 queries) 
 	- _What do you notice about the similarities and differences with these tools? Share your thoughts in the form._ 
 1. Identify 3 key words or phrases you want to search in library databases 
@@ -18,7 +18,7 @@ Work through the following questions, using the linked form to share your answer
 1. Go to google scholar and search your key words or phrases
 	- use the facets on the left side of the screen to limit by date and other parameters
 	- use related by to find content with similar key words
-1. Repeat your search in a disciplinary database such as [ERIC](https://www.google.com) or [TBD](TBD.com)
+1. Repeat your search in a disciplinary database such as [ERIC](https://www.proquest.com/eric)
 	- _What do you notice about the similarities and differences between the disciplinary database and google scholar? Share your thoughts in the form_
 1. Refine and repeat your search, looking for:
 	- Articles with a lot of citations (prominence in field)

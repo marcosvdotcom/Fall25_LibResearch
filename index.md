@@ -15,7 +15,7 @@ Session goals:
 - To understand at a base level how AI should be used in the research process
 - To make sure you know where to go for next steps, either to start your research or for more support 
 
-{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the (Microsoft Forms form)[] with your answers! [Click Here](https://forms.google.com/123)" align="center" color="success" %}
+{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdCQOkO_333XKPdP6d9TG-jmZw8VbW-uHrTBAATWQI6Q9nk9Q/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}{:target="_blank"}
 
 {% include toc.html %}
 
