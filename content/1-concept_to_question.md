@@ -2,7 +2,7 @@
 title: Concept to Question
 nav: Concept to Question Worksheet
 ---
-{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdCQOkO_333XKPdP6d9TG-jmZw8VbW-uHrTBAATWQI6Q9nk9Q/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}{:target="_blank"}
+{% include alert.html text="Are you doing this workshop for a class? Make sure to fill out the google form with your answers! [Right click here and open in a new tab!](https://docs.google.com/forms/d/e/1FAIpQLSdCQOkO_333XKPdP6d9TG-jmZw8VbW-uHrTBAATWQI6Q9nk9Q/viewform?usp=sharing&ouid=112866992831532553930)" align="center" color="success" %}
 
 ## Concept to Question Digital Worksheet
 
@@ -19,6 +19,7 @@ Work through the following questions, using the linked form to share your answer
 	- use the facets on the left side of the screen to limit by date and other parameters
 	- use related by to find content with similar key words
 1. Repeat your search in a disciplinary database such as [ERIC](https://www.proquest.com/eric)
+	- as before, use the facets on the left side of the screen to limit by date and other parameters 
 	- _What do you notice about the similarities and differences between the disciplinary database and google scholar? Share your thoughts in the form_
 1. Refine and repeat your search, looking for:
 	- Articles with a lot of citations (prominence in field)
@@ -30,7 +31,7 @@ Pro-Tip: _You can also search google scholar for AI served articles - this is ha
 Based on what you find, you will likely be updating and refining your parameters, especially with respect to dates and keywords. This is normal as you find out more information!
 
 ### Optional but recommended 
-- Download a citation manager [Zotero](https://Zotero.org) to help you keep track of it all. 
+- Download a free citation manager [Zotero](https://Zotero.org) to help you keep track of it all. 
 
 
 

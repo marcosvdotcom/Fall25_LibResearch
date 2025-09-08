@@ -25,6 +25,8 @@ Some of the top databases in Education are:
 
 ## Videos
 
+- [How to use this site](tbd) - This links to YouTube video that introduces this site, with some brief tips on getting started with academic library research. 
+
 - [Connecting Google Scholar](https://youtu.be/6uISOAfRMWY) - Easily ensure your Google Scholar account is giving you all the content your library account will allow, check out this very short video on how to make sure your Google Scholar and University of Idaho Library credentials are linked!
 
 - [UIdaho Library YouTube Channel](https://www.youtube.com/@UofILibrary/video) - Check out the UIdaho Library official YouTube channel, we have tons of videos that can help you get up to speed and building new skills in no time! 

@@ -8,7 +8,7 @@ First, you should consult whatever the boundaries set by your professor for your
 
 Ideally, AI, if you're using it at all, is just one search tool you are using alongside traditional web search strategies like searching databases and even the open web for key phrases and subjects. 
 
-> Avoid giving brain-crunching work to ChatGPT, you aren’t paying to send an AI to college you are paying to send YOUR brain. Just like someone else can’t work out and build your body for you, academic work is intended to build your actual brain muscle/connections in the form of research, critical thought, analysis, expression/communication, revision and editing. The most succesful folks will be those who use AI as a tool to be _more_ creative and innovative, not as a way to avoid the mental work that builds critical thinking skills!
+> Just like someone else can’t work out and build your body's muscles for you, outsourcing intellectual work to generative AI means missing out on the gains of college. Academic work is intended to build your actual brain tissue and form new neural connections, which create changes that occur in your brain as you learn and practice research, critical thought, analysis, expression/communication, revision and editing. The most succesful folks will be those who use AI as a tool to be _more_ creative and innovative, not as a way to avoid the mental work that builds critical thinking skills!
 
 ## AI Strengths and Weaknesses
 
@@ -30,7 +30,7 @@ As of 2025, it is still pretty bad at:
 1. Now ask it about something you know nothing about, how would you go about verifying the information of the topic you don’t know? Spoiler alert, it is hard to do! 
 <br>
 <br>
-{% include question.html header="AI Strategies" text="What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points. Share with me in the form!" solution="There's no one right answer, but your strategy should use AI for what it's good at (general searching and concept formation) and avoiding relying on it for areas where it struggles (factual data replication, citations, writing content.)." %}
+{% include question.html header="AI Strategies" text="What's your strategy for how you can use AI for what it's good at while minimizing the impacts of its weak points? Share with me in the form!" solution="There's no one right answer, but your strategy should use AI for what it's good at (general searching and concept formation) and avoiding relying on it for areas where it struggles (factual data replication, citations, writing content.)." %}
 
 ## Getting Good Results with AI
 

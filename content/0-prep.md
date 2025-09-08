@@ -19,7 +19,7 @@ What seperates a great research question from a good one?
 A _good_ research question has the following qualities:
 
 - Clearly defined in terms of scope, which may include the particular types of people impacted or locations of interest
-- A defined timefrmae of interest and/or relevance
+- A defined timeframe of interest and/or relevance
 - Identifiable key words that you can use to search off of
 
 Question: Sounds straight forward enough, but what makes a _great_ research question?
