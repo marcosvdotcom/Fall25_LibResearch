@@ -27,8 +27,12 @@ Some of the top databases in Education are:
 
 - [Connecting Google Scholar](https://youtu.be/6uISOAfRMWY) - Easily ensure your Google Scholar account is giving you all the content your library account will allow, check out this very short video on how to make sure your Google Scholar and University of Idaho Library credentials are linked!
 
+- [UIdaho Library YouTube Channel](https://www.youtube.com/@UofILibrary/video) - Check out the UIdaho Library official YouTube channel, we have tons of videos that can help you get up to speed and building new skills in no time! 
+
 ## One and One support
 
 - [Library Reference desk](https://www.lib.uidaho.edu/help/) - Visit the library reference desk for help developing your search phrases and identifying high quality resources.
+
 - [24/7 Chat](https://www.lib.uidaho.edu/help/) - Get round the clock research assistance via our 24 hour chat tool!
+
 - Marco 911 <marcosv@uidaho.edu> - Email me, Marco Seiferle-Valencia, Open Education Librarian, to scheduled a 1:1 zoom appointment to help you develop your research question, refine your search terms, and evaluate resources!

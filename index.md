@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# Library Research Skills for 2025
+# Library Research Skills for Fall 2025 and beyond!
 
 {% include figure.html img="https://www.lib.uidaho.edu/media/carousel/LibraryClockTower_car.jpg" alt="Sunlight peeking through the UIdaho Library foliage" caption="University of Idaho Library" width="75%" %}
 
