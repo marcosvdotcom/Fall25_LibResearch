@@ -2,8 +2,6 @@
 title: Additional Links & Resources
 nav: Resources
 ---
-
-
 {% include video-embed.html youtubeid="48-uJk6VFG4" caption="Additional Resources for your research" %}
 
 ## Education Databases
@@ -31,6 +29,8 @@ Some of the top databases in Education are:
 - [Connecting Google Scholar](https://youtu.be/6uISOAfRMWY) - Easily ensure your Google Scholar account is giving you all the content your library account will allow, check out this very short video on how to make sure your Google Scholar and University of Idaho Library credentials are linked!
 
 - [UIdaho Library YouTube Channel](https://www.youtube.com/@UofILibrary/video) - Check out the UIdaho Library official YouTube channel, we have tons of videos that can help you get up to speed and building new skills in no time! 
+
+- [Previous version of the 302/544](https://www.youtube.com/watch?v=mak6PeSZoBU&feature=youtu.be) - For those curious to watch the old version of this lecture!
 
 ## One and One support
 
