@@ -30,7 +30,7 @@ Some of the top databases in Education are:
 
 - [UIdaho Library YouTube Channel](https://www.youtube.com/@UofILibrary/video) - Check out the UIdaho Library official YouTube channel, we have tons of videos that can help you get up to speed and building new skills in no time! 
 
-- [Previous version of the 302/544](https://www.youtube.com/watch?v=mak6PeSZoBU&feature=youtu.be) - For those curious to watch the old version of this lecture!
+- [Previous version of the 302/544 Lecture](https://www.youtube.com/watch?v=mak6PeSZoBU&feature=youtu.be) - For those curious to watch the old version of this lecture!
 
 ## One and One support
 
