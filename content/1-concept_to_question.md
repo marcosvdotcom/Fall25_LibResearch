@@ -11,7 +11,7 @@ Work through the following questions, using the linked form to share your answer
 1. What ideas do you have for your research topic? 
 	- _Write down 2 or 3 different research topic ideas in the form_
 1. Use [PRIMO Research Assistant](https://alliance-uidaho.primo.exlibrisgroup.com/discovery/researchAssistant?vid=01ALLIANCE_UID%3AUID) to explore your topic (3 to 5 queries)
-1. Use your AI agent of choice to explore your topic, if you're not sure which to use just use ChatGPT (aim for 3-5 queries) 
+3. Use your AI agent of choice to explore your topic, if you're not sure which to use just use ChatGPT (aim for 3-5 queries) 
 	- _What do you notice about the similarities and differences with these tools? Share your thoughts in the form._ 
 1. Identify 3 key words or phrases you want to search in library databases 
 	- _Share your keywords in the form._
@@ -29,6 +29,10 @@ Work through the following questions, using the linked form to share your answer
 Pro-Tip: _You can also search google scholar for AI served articles - this is handy to see what a cited article might actually be._
 
 Based on what you find, you will likely be updating and refining your parameters, especially with respect to dates and keywords. This is normal as you find out more information!
+
+{% include video-embed.html youtubeid="-CR63JaOq-U" caption="Using Primo Research Assistant - UI's new AI research tool" %}
+<br>
+{% include video-embed.html youtubeid="SUz8FKsyBo4" caption="Getting the most from Google Scholar" %}
 
 ### Optional but recommended 
 - Download a free citation manager [Zotero](https://Zotero.org) to help you keep track of it all. 

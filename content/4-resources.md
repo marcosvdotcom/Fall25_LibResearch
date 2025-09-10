@@ -3,7 +3,8 @@ title: Additional Links & Resources
 nav: Resources
 ---
 
-Here are some additional resources to help you with library research throughout your academic career at the University of Idaho.
+
+{% include video-embed.html youtubeid="48-uJk6VFG4" caption="Additional Resources for your research" %}
 
 ## Education Databases
 
