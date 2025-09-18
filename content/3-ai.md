@@ -8,7 +8,7 @@ First, you should consult whatever the boundaries set by your professor for your
 
 Ideally, AI, if you're using it at all, is just one search tool you are using alongside traditional web search strategies like searching databases and even the open web for key phrases and subjects. 
 
-> Just like someone else can’t work out and build your body's muscles for you, outsourcing intellectual work to generative AI means missing out on the gains of college. Academic work is intended to build your actual brain tissue and form new neural connections, which create changes that occur in your brain as you learn and practice research, critical thought, analysis, expression/communication, revision and editing. The most succesful folks will be those who use AI as a tool to be _more_ creative and innovative, not as a way to avoid the mental work that builds critical thinking skills!
+> Just like someone else can’t work out and build your body's muscles for you, outsourcing intellectual work to generative AI means missing out on the gains of college. Academic work is intended to build your actual brain tissue and form new neural connections, which create changes that occur in your brain as you learn and practice research, critical thought, analysis, expression/communication, revision and editing. The most successful folks will be those who use AI as a tool to be _more_ creative and innovative, not as a way to avoid the mental work that builds critical thinking skills!
 
 ## AI Strengths and Weaknesses
 
