@@ -34,7 +34,7 @@ As of 2025, it is still pretty bad at:
 
 ## Getting Good Results with AI
 
-What results you get from any generative AI are hugely dependent on how you phrase and construct your questions. Because AI works in a probabalistic manner, which means it is determing which words are most likely to occur following previous words and weighting how those results are shown based on hundreds of thousands of virtual training hours, how you phrase, order, and logicially construct your question makes a big impact on the type of results you get back.
+What results you get from any generative AI are hugely dependent on how you phrase and construct your questions. Because AI works in a probabilistic manner, which means it is determining which words are most likely to occur following previous words and weighting how those results are shown based on hundreds of thousands of virtual training hours, how you phrase, order, and logically construct your question makes a big impact on the type of results you get back.
 
 Check out the [CLEAR Framework](https://guides.library.georgetown.edu/ai/prompts) for more on developing strong AI prompts. 
 

@@ -32,7 +32,7 @@ Some of the top databases in Education are:
 
 - [Previous version of the 302/544 Lecture](https://www.youtube.com/watch?v=mak6PeSZoBU&feature=youtu.be) - For those curious to watch the old version of this lecture!
 
-## One and One support
+## One on One support
 
 - [Library Reference desk](https://www.lib.uidaho.edu/help/) - Visit the library reference desk for help developing your search phrases and identifying high quality resources.
 
